@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su histoira.
 
 Es mono, pero no lo es en realidad.
+
+Hoy esta aprendiendo git.
